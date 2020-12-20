@@ -1,2 +1,4 @@
 # nBotM
- Bot engine for VK.COM
+Bot engine for VK.COM
+
+THE ENGINE IS NOT SAFE TO USE! (CHECK ISSUES)
