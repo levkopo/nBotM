@@ -1,0 +1,3 @@
+debug=1;
+api_url=https://api.vk.com/;
+api_version=5.90;
